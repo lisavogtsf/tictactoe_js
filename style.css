@@ -1,7 +1,7 @@
 body {
 	background: white;
-	color: black;
-
+	color: white;
+	font-style: bold;
 }
 
 div {
@@ -21,6 +21,21 @@ div {
 	text-align: center;
 	vertical-align: center;
 }
+
+
+.x {
+	color: red;
+	background-color: black;
+}
+.o {
+	color: black;
+}
+
+
+
+
+
+
 #boxOne {
 	border-top: 5px solid teal;
 	border-left: 5px solid teal;
@@ -33,22 +48,30 @@ div {
 	border-right: 5px solid teal;
 }
 /*
-#boxTwo {
+#boxFour {
 
 }
-#boxTwo {
+#boxFive {
 
 }
-#boxTwo {
+#boxSix {
 
 }
-#boxTwo {
+#boxSeven {
 
 }
-#boxTwo {
+#boxEight {
 
 }
-#boxTwo {
+#boxNine {
 
 }
 */
+
+
+
+
+
+
+
+
