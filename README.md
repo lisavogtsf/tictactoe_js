@@ -1,4 +1,4 @@
-##Completed minimum requirements, Lisa 7/11/14
+##Completed minimum requirements plus display next player, Lisa 7/13/14
 
 #Week 1 Project - Tic Tac Toe
 
@@ -14,6 +14,8 @@ Today we will be making a Tic Tac Toe game using all of this.
 * ~~Upon marking of an individual cell, use javascript to add a class to each cell to display separate colors.~~
 * ~~A cell should not be able able to replayed once marked.~~
 * ~~Add a reset button that will clear the contents of the board.~~
+## Bonus
+* ~~Display a message to indicate which turn is about to be played.~~
 
 ##How to get started
 1. Construct a `index.html` to be your starting point on this project. Add your necessary html tags, including `script` and `link` tags to link to your javascript and css respecively.
@@ -24,7 +26,7 @@ Today we will be making a Tic Tac Toe game using all of this.
 	* You will also need a variable to keep track of moves. As this will be used to indicate whether or not to draw an `X` or an `O`
 
 ##Bonus
-* Display a message to indicate which turn is about to be played.
+
 * After the necessary moves have been played, stop game and alert the winner if one player ends up winning with three in a row.
 	* Hint: Determine a set of winning combinations. Check those combinations on the board contents after every move.
 
