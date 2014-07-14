@@ -14,7 +14,6 @@ Today we will be making a Tic Tac Toe game using all of this.
 * ~~Upon marking of an individual cell, use javascript to add a class to each cell to display separate colors.~~
 * ~~A cell should not be able able to replayed once marked.~~
 * ~~Add a reset button that will clear the contents of the board.~~
-## Bonus
 * ~~Display a message to indicate which turn is about to be played.~~
 
 ##How to get started
