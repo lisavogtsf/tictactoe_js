@@ -1,4 +1,4 @@
-##Completed minimum requirements
+##Completed minimum requirements, Lisa 7/11/14
 
 #Week 1 Project - Tic Tac Toe
 
