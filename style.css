@@ -3,7 +3,16 @@ body {
 	color: white;
 	font-style: bold;
 }
-
+h1 {
+	color: teal;
+	text-align: center;
+	font-family: 'Monaco';
+}
+h2 {
+	color: teal;
+	text-align: left;
+	font-family: 'Monaco';	
+}
 div {
 	background-color: white;
 	height: 480px;
@@ -32,24 +41,34 @@ div {
 	vertical-align: center;
 	border-radius: 20px;
 	border: 5px solid gray;
+	float: left;
 }
 .reset:hover {
 	background-color: gray;
 	border: 5px solid gray;	
 }
-
 .x {
 	color: black;
 }
 .o {
 	color: white;
 }
-
-
+#displayNext {
+	background-color: gray;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	font-size: 90px;
+	text-align: center;
+	border-radius: 20px;
+	border: 5px solid teal;
+	margin: 20px 40px; 
+	float: left;
+}
 #boxOne {
 	border-top: 5px solid teal;
 	border-left: 5px solid teal;
-	border-radius: 
+	border-radius: 20px 0 0 0;
 }
 #boxTwo {
 	border-top: 5px solid teal;
@@ -57,6 +76,7 @@ div {
 #boxThree {
 	border-top: 5px solid teal;
 	border-right: 5px solid teal;
+	border-radius: 0 20px 0 0;	
 }
 
 #boxFour {
@@ -70,7 +90,8 @@ div {
 }
 #boxSeven {
 	border-left: 5px solid teal;
-	border-bottom: 5px solid teal;	
+	border-bottom: 5px solid teal;
+	border-radius: 0 0 0 20px;	
 }
 #boxEight {
 	border-bottom: 5px solid teal;
@@ -78,6 +99,7 @@ div {
 #boxNine {
 	border-right: 5px solid teal;
 	border-bottom: 5px solid teal;
+	border-radius: 0 0 20px 0;	
 }
 
 
